@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: binrohan.cs@gmail.com || +8801777547348
 - 😄 Pronouns: ... R O H A N
 - ⚡ Fun fact: ... Your are right!
--->
+---
 
 <a href="https://github.com/binrohan?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=binrohan&theme=tokyonight&hide_langs_below=0&title_color=FFFFFF" />
