@@ -2,6 +2,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/binrohan/)
 [![Portfolio](https://img.shields.io/badge/%20-Portfolio-black?color=14171A&labelColor=212121)](https://binrohan.github.io/me/)
+[![Download Resume](https://img.shields.io/badge/%20-Resume-black?color=14171A&logo=resume&labelColor=212121)](https://binrohan.github.io/me/)
 
 <!--
 **binrohan/binrohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
