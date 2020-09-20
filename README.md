@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on Nowhere right now
-- 🌱 I’m currently learning ASP.Net, Advanced C#, Algorithms
+- 🌱 I’m currently learning ASP.Net, Algorithms
 - 👯 I’m looking to collaborate on Adroid App Development
 - 🤔 I’m looking for help with Docker, Heroku
 - 💬 Ask me about Study Planning, Algorithm and Problem Solving
